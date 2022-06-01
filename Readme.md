@@ -36,8 +36,8 @@
 
 5.  Data Analytics II
 
->   1. Implement logistic regression using Python to perform classification on Social_Network_ads.csv dataset.
-         2. Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
+>1. Implement logistic regression using Python to perform classification on Social_Network_ads.csv dataset.
+2. Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
 
 
 6.  Data Analytics III
