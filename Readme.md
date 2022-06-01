@@ -1,4 +1,4 @@
-**Created by Mayur Mhatre - TE.Comp.Engg. - DYPIEMR - 2019 Batch**
+**Created by Mayur Mhatre - TE Computer Engineering DYPIEMR, Akurdi - 2019 Batch**
 > SPPU 2019 Pattern
 > Data Science and Big Data Analytics - Practical Assignments
 
