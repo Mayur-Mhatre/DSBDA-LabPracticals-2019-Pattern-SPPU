@@ -32,7 +32,7 @@
 
 4.  Data Analytics I
 
-    >   Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset.
+>       Create a Linear Regression Model using Python/R to predict home prices using Boston Housing Dataset.
         The Boston Housing dataset contains information about various houses in Boston through different parameters.
         There are 506 samples and 14 feature variables in this dataset.
 
