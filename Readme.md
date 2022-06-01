@@ -36,24 +36,24 @@
 
 5.  Data Analytics II
 
->   1. Implement logistic regression using Python to perform classification on Social_Network_ads.csv dataset.
->   2. Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
+>   Implement logistic regression using Python to perform classification on Social_Network_ads.csv dataset.
+>   Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
 
 
 6.  Data Analytics III
 
->   1. Implement Simple Naive Bayes classification algorithm using Python on iris.csv dataset
->   2. Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
+>   Implement Simple Naive Bayes classification algorithm using Python on iris.csv dataset
+>   Compute Confusion Matrix to find TP, FP, TN, FN, Accuracy, Error Rate, Precision, Recall on the given dataset.
 
 
 7.  Text Analytics
->   1. Extract Sample document and apply following document preprocessing methods: Tokenization, POS Tagging, stop words removal, Stemming and Lemmatization.
->   2. Create representation of document by calculating Term Frequency and Inverse Document Frequency.
+>   Extract Sample document and apply following document preprocessing methods: Tokenization, POS Tagging, stop words removal, Stemming and Lemmatization.
+>   Create representation of document by calculating Term Frequency and Inverse Document Frequency.
 
 
 8.  Data Visualization I
->   1. Use the inbuilt dataset 'titanic'. The dataset contains 891 rows and contains information about the passengers who boarded the unfortunate Titanic ship. Use the Seaborn library to see if we can find any patterns in the data.
->   2. Write a code to check how the price of the ticket (column name: 'fare') for each passenger is distributed by 
+>   Use the inbuilt dataset 'titanic'. The dataset contains 891 rows and contains information about the passengers who boarded the unfortunate Titanic ship. Use the Seaborn library to see if we can find any patterns in the data.
+>   Write a code to check how the price of the ticket (column name: 'fare') for each passenger is distributed by 
 plotting a histogram.
 
 
@@ -67,7 +67,7 @@ plotting a histogram.
 
 10. Data Visualization III
 >   Use Iris flower dataset and perform following operations. Scan the dataset and give the inference as: 
->   1. List down the features and their types (e.g., numeric, nominal) available in the dataset. 
->   2. Create a histogram for each feature in the dataset to illustrate the feature distributions. 
->   3. Compare distributions and identify outliers
+>   List down the features and their types (e.g., numeric, nominal) available in the dataset. 
+>   Create a histogram for each feature in the dataset to illustrate the feature distributions. 
+>   Compare distributions and identify outliers
 
